@@ -5,9 +5,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Sample Maven Page</title>
     </head>
-    <body>
+    <body bgcolor="#E6E6FA">
         <h1>Hello World!</h1>
 		<h2>Welcome to my page !!</h2>
 		<h3>It is just a sample app</h3>
